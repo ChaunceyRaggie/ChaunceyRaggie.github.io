@@ -1,9 +1,9 @@
 {
     "main": {
         "name": "Chauncey Raggie",
-        "description": "I'm a Finance Professional turned  Data Scientist, with over 4 years of experience in customer relationship management and I use react and python to develop analytic solutions...",
+        "description": "I'm a business and sports analytics enthusiast, with over 12 years of experience in the Banking industry and I enjoy developing analytic solutions to solve interesting problems.",
         "image": "profilepic.jpg",
-        "bio": "Enjoys developing data-driven strategies to improve business performance",
+        "bio": "I'm a business and sports analytics enthusiast, with over 12 years of experience in the Banking industry and I enjoy developing analytic solutions to solve interesting problems.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "raggiechauncey@gmail.com",
         "phone": "647-236-8045",
@@ -29,7 +29,7 @@
             },
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/chauncey-raggie/",
                 "className": "fa fa-linkedin"
             },
             {
@@ -50,7 +50,7 @@
             {
                 "school": "University of Michigan",
                 "degree": "Master of Applied Data Science",
-                "graduated": "Candidate",
+                "graduated": "Candidate | Expected Graduation 2023",
                 "description": "Developing the theoretical and computational skills needed to apply data science in any number of real world contexts"
             },
             {
@@ -64,14 +64,26 @@
             {
                 "company": "The Bank of Nova Scotia",
                 "title": "Manager, Customer Interaction Managment",
-                "years": "June 2008 - Present",
+                "years": "2017 - Present",
                 "description": "Utilized advanced analytic techniques such as customer segmentation and predictive modelling to optimize marketing campaign performance "
             },
             {
-                "company": "The Government of St. Lucia",
-                "title": "Economist",
-                "years": "2004 - 2008",
-                "description": "Assessed economic conditions in St. Lucia to estimate the effects of specific legislation and recommended changes to public policy"
+                "company": "The Bank of Nova Scotia",
+                "title": "Business Analyst",
+                "years": "2015 - 2017",
+                "description": "Assisted with the development, implementation and maintenance of analytic solutions for key projects"
+            },
+            {
+                "company": "The Bank of Nova Scotia",
+                "title": "Client Portfolio Analyst",
+                "years": "2012 - 2015",
+                "description": "Managed the credit risk of the Bank's Commercial portfolio through financial analysis"
+            },
+            {
+                "company": "The Bank of Nova Scotia",
+                "title": "Account Officer",
+                "years": "2008 - 2012",
+                "description": "Increased the Commercial Banking unit's book of business by structuring credit solutions for existing clients and new prospects"
             }
         ],
         "skills": [
@@ -92,8 +104,8 @@
                 "level": "50%"
             },
             {
-                "name": "React",
-                "level": "10%"
+                "name": "SAS",
+                "level": "25%"
             }
         ]
     },
