@@ -54,9 +54,15 @@
                 "description": "Developing the theoretical and computational skills needed to apply data science in any number of real world contexts"
             },
             {
+                "school": "Ryerson University",
+                "degree": "Certificate in Data Analytics, Big Data and Predictive Analytics",
+                "graduated": "2017",
+                "description": "Provided me with a strong foundation in data analytics, big data, and predictive analytics"
+            },
+            {
                 "school": "Acadia University",
                 "degree": "Economics",
-                "graduated": "March 2003",
+                "graduated": "2003",
                 "description": "Gained an understanding of how economies function locally and on a global scale, what drives consumers, and how public policy and global events affect markets"
             }
         ],
